@@ -1,0 +1,21 @@
+# Tuins
+
+> Tuins es una app para encontrar con quién ir a tus planes (cine, fútbol, juegos de mesa, conciertos o una caminata) y armar grupo con gente de tu ciudad que quiere hacer lo mismo. Es para hacer amigos, no para ligar, y solo para mayores de 18 años. Empieza en Quito, Ecuador.
+
+Datos clave:
+
+- Cómo funciona: eliges una actividad, te unes a un grupo con cupos libres o creas tu propio plan, y coordinas por el chat del grupo.
+- Seguridad: solo mayores de 18 años, perfiles verificados, puntos de encuentro públicos sugeridos y opción de reportar y bloquear.
+- Disponibilidad: iOS y Android; descargarla es gratis.
+- Origen: el nombre viene de "twins" (gemelos en inglés). La fundó Antuan Barahona.
+
+## Páginas
+
+- [Inicio](https://josueantuanb.github.io/tuins/): qué es Tuins, cómo funciona, actividades, seguridad, historia y preguntas frecuentes
+- [Sobre nosotros](https://josueantuanb.github.io/tuins/sobre-nosotros.html): por qué existe Tuins y quién está detrás
+- [Contacto](https://josueantuanb.github.io/tuins/contacto.html): cómo ponerse en contacto
+
+## Opcional
+
+- [Aviso legal](https://josueantuanb.github.io/tuins/aviso-legal.html): responsable del sitio, uso y propiedad intelectual
+- [Política de privacidad](https://josueantuanb.github.io/tuins/privacidad.html): el sitio no usa cookies, formularios ni analítica
